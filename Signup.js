@@ -112,7 +112,7 @@ app.delete('/api/delete/:id',async(req,res)=>{
 })
 
 // get api
-// Get API to fetch users with status 'Activ
+// Get API to fetch users with status 'Active 
 
 app.get('/api/users/active',async(req,res)=>{
     try{
